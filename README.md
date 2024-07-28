@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on my dream job
 - 📫 How to reach me: jarimikkonen123@gmail.com or mobile 0456935898
 - 😄 Pronouns: Fun, perfectionist, storymaker
-- ⚡ Fun fact: I'm father of one girl
+- ⚡ Fun fact: I am a family man
+
 
 <!---
 Jdatanist/Jdatanist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
