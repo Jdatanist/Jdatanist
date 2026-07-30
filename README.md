@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jdatanist
+- 👋 Hi, I’m @RootedCode
 - 👀 I’m interested in youtube video making and developments
 - 🌱 I’m currently learning scripts
 - 💞️ I’m looking to collaborate on my dream job
